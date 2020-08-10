@@ -1,4 +1,4 @@
-# Taking a dumparooski on a Dlink DIR363L "cloud" router.
+# Taking a dumparooski from a Dlink DIR363L "cloud" router.
 
 Dumping the firmware on a dumpster router.
 <BR><BR>
